@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "connect": "^3.5.0",
+    "cors": "^2.8.1",
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "mysql": "^2.12.0",
+    "sequelize": "^3.27.0"
+  }
+}
